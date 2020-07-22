@@ -1,2 +1,2 @@
-# Design_Patterns_in_Examples
+# Design Patterns in Examples
 Examples of code for selected design patterns
