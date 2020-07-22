@@ -2,7 +2,7 @@ package com.sebastianczech
 
 import spock.lang.Specification
 
-class AbstractFactorySpec extends Specification {
+class ProjectSetupSpec extends Specification {
 
     def "should return number 2"() {
         given:

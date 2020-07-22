@@ -8,7 +8,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class AbstractFactoryTest {
+public class ProjectSetupTest {
 
     static Integer a;
 
