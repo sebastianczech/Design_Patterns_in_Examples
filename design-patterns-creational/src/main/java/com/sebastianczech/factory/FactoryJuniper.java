@@ -1,4 +1,4 @@
 package com.sebastianczech.factory;
 
-public class FactoryJuniper extends AbstractFactory {
+public class FactoryJuniper extends VendorFactory {
 }

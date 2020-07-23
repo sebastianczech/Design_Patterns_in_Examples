@@ -1,4 +1,4 @@
 package com.sebastianczech.factory;
 
-public class FactoryNokia extends AbstractFactory {
+public class FactoryNokia extends VendorFactory {
 }
