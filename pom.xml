@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0</version>
     <modules>
-        <module>design-patters-creational</module>
+        <module>design-patterns-creational</module>
     </modules>
 
     <name>design-patterns-by-examples</name>

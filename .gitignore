@@ -25,3 +25,4 @@ hs_err_pid*
 # IDEA
 .idea
 design-patterns-by-examples.iml
+*/*.iml
