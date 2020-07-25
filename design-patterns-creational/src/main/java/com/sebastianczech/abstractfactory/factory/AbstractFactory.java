@@ -1,8 +1,8 @@
-package com.sebastianczech.factory;
+package com.sebastianczech.abstractfactory.factory;
 
-import com.sebastianczech.model.Chassis;
-import com.sebastianczech.model.Port;
-import com.sebastianczech.model.Vendor;
+import com.sebastianczech.abstractfactory.model.Chassis;
+import com.sebastianczech.abstractfactory.model.Port;
+import com.sebastianczech.abstractfactory.model.Vendor;
 
 public abstract class AbstractFactory {
 

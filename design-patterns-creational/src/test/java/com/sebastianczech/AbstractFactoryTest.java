@@ -1,9 +1,9 @@
 package com.sebastianczech;
 
-import com.sebastianczech.factory.AbstractFactory;
-import com.sebastianczech.model.Chassis;
-import com.sebastianczech.model.Port;
-import com.sebastianczech.model.Vendor;
+import com.sebastianczech.abstractfactory.factory.AbstractFactory;
+import com.sebastianczech.abstractfactory.model.Chassis;
+import com.sebastianczech.abstractfactory.model.Port;
+import com.sebastianczech.abstractfactory.model.Vendor;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

@@ -1,4 +1,4 @@
-package com.sebastianczech.model;
+package com.sebastianczech.abstractfactory.model;
 
 public enum Vendor {
     Cisco, Juniper, Nokia
