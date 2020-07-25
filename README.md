@@ -10,7 +10,7 @@ described in [Source Making](https://sourcemaking.com/design_patterns).
 * [Factory Method](design-patterns-creational/src/test/java/com/sebastianczech/FactoryMethodTest.java) - Creates an instance of several derived classes
 * Object Pool - Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 * Prototype - A fully initialized instance to be copied or cloned
-* Singleton - A class of which only a single instance can exist
+* [Singleton](design-patterns-creational/src/test/java/com/sebastianczech/SingletonTest.java) - A class of which only a single instance can exist
 
 ## Structural patterns
 
