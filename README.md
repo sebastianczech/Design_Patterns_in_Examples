@@ -14,7 +14,7 @@ described in [Source Making](https://sourcemaking.com/design_patterns).
 
 ## Structural patterns
 
-* Adapter - Match interfaces of different classes
+* [Adapter](design-patterns-structural/src/test/java/com/sebastianczech/AdapterTest.java) - Match interfaces of different classes
 * Bridge - Separates an object's interface from its implementation
 * Composite - A tree structure of simple and composite objects
 * Decorator - Add responsibilities to objects dynamically

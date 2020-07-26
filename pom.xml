@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>design-patterns-creational</module>
+        <module>design-patterns-structural</module>
     </modules>
 
     <name>design-patterns-by-examples</name>
