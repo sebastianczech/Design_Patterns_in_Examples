@@ -31,7 +31,7 @@ described in [Source Making](https://sourcemaking.com/design_patterns).
 * Iterator - Sequentially access the elements of a collection
 * Mediator - Defines simplified communication between classes
 * Memento - Capture and restore an object's internal state
-* Null Object - Designed to act as a default value of an object
+* [Null Object](design-patterns-behavioral/src/test/java/com/sebastianczech/NullObjectTest.java) - Designed to act as a default value of an object
 * Observer - A way of notifying change to a number of classes
 * State - Alter an object's behavior when its state changes
 * Strategy - Encapsulates an algorithm inside a class
