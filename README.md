@@ -34,6 +34,6 @@ described in [Source Making](https://sourcemaking.com/design_patterns).
 * [Null Object](design-patterns-behavioral/src/test/java/com/sebastianczech/NullObjectTest.java) - Designed to act as a default value of an object
 * Observer - A way of notifying change to a number of classes
 * State - Alter an object's behavior when its state changes
-* Strategy - Encapsulates an algorithm inside a class
+* [Strategy](design-patterns-behavioral/src/test/java/com/sebastianczech/StrategyTest.java) - Encapsulates an algorithm inside a class
 * Template method - Defer the exact steps of an algorithm to a subclass
 * Visitor - Defines a new operation to a class without change
