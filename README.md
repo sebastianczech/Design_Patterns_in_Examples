@@ -1,7 +1,8 @@
 # Design Patterns by examples
 
 Examples of my code for selected design patterns 
-described in [Source Making](https://sourcemaking.com/design_patterns).
+described in [Source Making](https://sourcemaking.com/design_patterns) 
+and [Refactoring Guru](https://refactoring.guru/design-patterns).
 
 ## Creational patterns
 
@@ -21,7 +22,7 @@ described in [Source Making](https://sourcemaking.com/design_patterns).
 * Facade - A single class that represents an entire subsystem
 * Flyweight - A fine-grained instance used for efficient sharing
 * Private Class Data - Restricts accessor/mutator access
-* Proxy - An object representing another object
+* [Proxy](design-patterns-structural/src/test/java/com/sebastianczech/ProxyTest.java) - An object representing another object
 
 ## Behavioral patterns
 
