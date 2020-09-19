@@ -1,5 +1,7 @@
 # Design Patterns by examples
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/sebastianczech/design-patterns-by-examples?branch=master)](https://bettercodehub.com/)
+
 Examples of my code for selected design patterns 
 described in [Source Making](https://sourcemaking.com/design_patterns) 
 and [Refactoring Guru](https://refactoring.guru/design-patterns).
